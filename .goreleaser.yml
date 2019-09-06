@@ -39,7 +39,7 @@ nfpm:
 
   # Your app's homepage.
   # Default is empty.
-  homepage: https://github.com/dahendel/docker-machine-cloudstack
+  homepage: https://github.com/Golang-Indonesia/docker-machine-driver-cloudstack
 
   # Your app's maintainer (probably you).
   # Default is empty.
